@@ -1421,6 +1421,8 @@
   :root .content-18rAwf > .profilePanel-2VBkh8 {
     top: 220px;
     bottom: 80px;
+    right: 60px;
+    width: 320px;
     border-radius: var(--border-radius);
     overflow: hidden;
   }
